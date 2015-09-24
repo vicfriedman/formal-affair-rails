@@ -1,5 +1,3 @@
-
-
 # Formal Affair
 
 ## Instructions
